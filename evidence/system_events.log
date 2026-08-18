@@ -1,0 +1,11 @@
+2026-08-18 09:00:02 INFO System started
+2026-08-18 09:01:12 INFO User login: user01
+2026-08-18 09:15:44 INFO User login: user01
+2026-08-18 10:22:31 WARN Failed login: admin
+2026-08-18 10:23:04 WARN Failed login: admin
+2026-08-18 10:23:41 WARN Failed login: admin
+2026-08-18 10:24:12 INFO Successful login: admin
+2026-08-18 10:26:18 WARN Sensitive file accessed: config.txt
+2026-08-18 10:27:03 WARN Archive created: archive.zip
+2026-08-18 10:28:47 WARN Archive accessed: archive.zip
+2026-08-18 10:30:01 INFO System activity normal

@@ -1,0 +1,6 @@
+timestamp,user,action,file_path
+2026-08-18 09:10:22,user01,OPEN,/home/user01/report.docx
+2026-08-18 09:20:11,user01,OPEN,/home/user01/project.xlsx
+2026-08-18 10:26:18,admin,READ,/home/admin/config.txt
+2026-08-18 10:27:03,admin,CREATE,/home/admin/archive.zip
+2026-08-18 10:28:47,admin,READ,/home/admin/archive.zip
